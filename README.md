@@ -26,4 +26,6 @@ Both functions write their results to log files that are then compressed when th
 
 All code and project files are created in Sapien PowerShell Studio 2018, so you will need that to review the code for the controls themselves, etc. The scripts have been compiled into an executable (VMToolsUpdateMitigation.exe) that can be run from any machine that access to vCenter.
 
+Grab the latest self extracting executable from the RELEASES tab if you don't want all the source code files. 
+
 PowerShell 5.1 and the latest version of PowerCLI are required (Install-Module VMWare.PowerCLI).
